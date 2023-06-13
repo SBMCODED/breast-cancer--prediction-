@@ -1,1 +1,1 @@
-# breast-cancer--prediction-
+breast-cancer-predicition SMOTE is used in the project for balancing of the dataset The target variable is M =1,B=0 The following model is used a. logisitic regression b. random forest c. support vector machine d. k- nearest neighbour
